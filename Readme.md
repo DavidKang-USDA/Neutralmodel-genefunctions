@@ -6,7 +6,7 @@ This repository provides supporting information and the codes for the following 
 
 ## Motility genes are associated with the occurrence of *Drosophila melanogaster*-associated gut microbes
 
-Rishi Bhandari<sup>a</sup>, Caleb J. Robbins<sup>b</sup> , Arinder K. Arora<sup>c</sup>, John M. Chaston<sup>d</sup>, David S. Kang <sup>a</sup>  <br />
+Rishi Bhandari<sup>a</sup>, Caleb J. Robbins<sup>b</sup> , Arinder K. Arora<sup>c</sup>, John M. Chaston<sup>d</sup>, and David S. Kang <sup>a</sup>  <br />
  <br />
  <br />
 <sup>a</sup> USDA Agricultural Research Service, Biological Control of Insects Research Laboratory, Research Park, 1503 S Providence, Columbia, MO 65203-3535, USA
@@ -19,7 +19,7 @@ Rishi Bhandari<sup>a</sup>, Caleb J. Robbins<sup>b</sup> , Arinder K. Arora<sup>
  <br />
  <br />       
 
-Short title: Impacts of host crop and fly sex on the Drosophila suzukii microbiome
+Short title: Impacts of host crop and fly sex on the *Drosophila suzukii* microbiome
 
 Corresponding Author: Dave Kang, Dave.Kang@usda.gov
 
@@ -31,14 +31,14 @@ Corresponding Author: Dave Kang, Dave.Kang@usda.gov
 
   
 ## Abstract
-Recent work highlighted the role of motility genes in dispersing fly-associated microbes and their spread between hosts. We investigated whether bacterial genes encoding motility are associated with the occurrence of bacteria above passive dispersal levels in the gut of wild Drosophila melanogaster. We revisited 16S amplicon and shotgun metagenome data of wild flies and correlated four genera of bacteria (Commensalibacter, Gluconobacter, Lactobacillus, and Tatumella) with motility genes. We plotted the microbes against neutral models of ecological drift and passive dispersal. Microbes with positive correlations to motility were exclusively found at or above neutral model predictions, suggesting motility genes are crucial for fly microbiota spread and colonization. This information is crucial for understanding how specific gene functions contribute to microbial community dispersal and colonization within the fly host. Moreover, this study’s findings serve as a proof of concept for using the neutral model to predict microbial functions essential for survival and dissemination in diverse hosts.
+Recent work highlighted the role of motility genes in dispersing fly-associated microbes and their spread between hosts. We investigated whether bacterial genes encoding motility are associated with the occurrence of bacteria above passive dispersal levels in the gut of wild *Drosophila melanogaster*. We revisited 16S amplicon and shotgun metagenome data of wild flies and correlated four genera of bacteria (*Commensalibacter*, *Gluconobacter*, *Lactobacillus*, and *Tatumella*) with motility genes. We plotted the microbes against neutral models of ecological drift and passive dispersal. Microbes with positive correlations to motility were exclusively found at or above neutral model predictions, suggesting motility genes are crucial for fly microbiota spread and colonization. This information is crucial for understanding how specific gene functions contribute to microbial community dispersal and colonization within the fly host. Moreover, this study’s findings serve as a proof of concept for using the neutral model to predict microbial functions essential for survival and dissemination in diverse hosts.
 
-### Keywords: Drosophila melanogaster, gut microbiome, neutral model, dispersal, bacteria
+#### Keywords: *Drosophila melanogaster*, gut microbiome, neutral model, dispersal, bacteria
 
 
 ## Data Availability
 
-The data examined herein were obtained from a previous study of microbial metagenomics and fly lipid content entitled “Functional traits of the gut microbiome correlated with host lipid content in a natural population of Drosophila melanogaster” (https://doi.org/10.1098/rsbl.2019.0803). All the data from the study are available as electronic supplementary material or at NCBI Short Read Archive under PRJNA579293
+The data examined herein were obtained from a previous study of microbial metagenomics and fly lipid content entitled “Functional traits of the gut microbiome correlated with host lipid content in a natural population of *Drosophila melanogaster*” (https://doi.org/10.1098/rsbl.2019.0803). All the data from the study are available as electronic supplementary material or at NCBI Short Read Archive under PRJNA579293.
 
 
 ## Acknowledgements
