@@ -6,7 +6,7 @@ This repository provides supporting information and the codes for the following 
 
 ## Motility genes are associated with the occurrence of *Drosophila melanogaster*-associated gut microbes
 
-Rishi Bhandari<sup>a</sup>, Caleb J. Robbins<sup>b</sup>, , Arinder K. Arora<sup>c</sup>, John M. Chaston<sup>*d</sup>, David S. Kang <sup>a</sup>  <br />
+Rishi Bhandari<sup>a</sup>, Caleb J. Robbins<sup>b</sup> , Arinder K. Arora<sup>c</sup>, John M. Chaston<sup>d</sup>, David S. Kang <sup>a</sup>  <br />
  <br />
  <br />
 <sup>a</sup> USDA Agricultural Research Service, Biological Control of Insects Research Laboratory, Research Park, 1503 S Providence, Columbia, MO 65203-3535, USA
