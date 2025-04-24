@@ -26,13 +26,12 @@ Corresponding Author: Dave Kang, Dave.Kang@usda.gov
 
 
     
-   ### *Note: This study is currently under review.*   <br />  
+   ### *Note: This study is punlished in ISME Communication (https://doi.org/10.1093/ismeco/ycaf013).*   <br />  
   <br />  
 
   
 ## Abstract
-Recent work highlighted the role of motility genes in dispersing fly-associated microbes and their spread between hosts. We investigated whether bacterial genes encoding motility are associated with the occurrence of bacteria above passive dispersal levels in the gut of wild *Drosophila melanogaster*. We revisited 16S amplicon and shotgun metagenome data of wild flies and correlated four genera of bacteria (*Commensalibacter*, *Gluconobacter*, *Lactobacillus*, and *Tatumella*) with motility genes. We plotted the microbes against neutral models of ecological drift and passive dispersal. Microbes with positive correlations to motility were exclusively found at or above neutral model predictions, suggesting motility genes are crucial for fly microbiota spread and colonization. This information is crucial for understanding how specific gene functions contribute to microbial community dispersal and colonization within the fly host. Moreover, this study’s findings serve as a proof of concept for using the neutral model to predict microbial functions essential for survival and dissemination in diverse hosts.
-
+Recent work highlighted the role of motility genes in dispersing fly-associated microbes and their spread between hosts. We investigated whether bacterial genes encoding motility are associated with the occurrence of bacteria above passive dispersal levels in the gut of wild Drosophila melanogaster. We revisited 16S amplicon and shotgun metagenome data of wild flies and correlated four genera of bacteria (*Commensalibacter*, *Gluconobacter*, *Lactobacillus*, and *Tatumella*) with motility genes. We plotted the microbes against neutral models of ecological drift and passive dispersal. Microbes with positive correlations to motility were exclusively found at or above neutral model predictions, suggesting motility genes are crucial for fly microbiota spread and colonization. This information is crucial for understanding how specific gene functions contribute to microbial community dispersal and colonization within the fly host. Moreover, this study’s findings serve as a proof of concept for using the neutral model to predict microbial functions essential for survival and dissemination in diverse hosts.
 #### Keywords: *Drosophila melanogaster*, gut microbiome, neutral model, dispersal, bacteria
 
 
