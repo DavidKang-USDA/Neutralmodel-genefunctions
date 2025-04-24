@@ -26,7 +26,7 @@ Corresponding Author: Dave Kang, Dave.Kang@usda.gov
 
 
     
-   ### *Note: This study is punlished in ISME Communication (https://doi.org/10.1093/ismeco/ycaf013).*   <br />  
+   ### *Note: This study is published in ISME Communication (https://doi.org/10.1093/ismeco/ycaf013).*   <br />  
   <br />  
 
   
